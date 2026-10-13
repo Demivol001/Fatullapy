@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+.env*.local
+.vercel
+.DS_Store
+
+# Written by `next dev`; not part of the site
+AGENTS.md
+CLAUDE.md
