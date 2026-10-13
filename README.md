@@ -1,4 +1,4 @@
-# fattula-web
+# PYfattula-web
 
 Сайт fattula на Next.js. Три раздела: главная, посты и проекты.
 
